@@ -2,7 +2,7 @@
 
 **Sabores de Casa** es una página web responsiva para un local de comidas que ofrece **viandas caseras**, **empanadas artesanales** y **pizzas recién horneadas**. Ideal tanto para clientes que visitan el local como para quienes realizan pedidos para llevar o delivery.
 
-![Sabores de Casa Logo](./59787b30-3dd6-4595-a695-afd51bd34b67.png)
+![Sabores de Casa Logo](https://saboresdecasa.netlify.app/logo.png)
 
 ## 🚀 Características
 
